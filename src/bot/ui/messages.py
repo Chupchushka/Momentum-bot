@@ -8,7 +8,7 @@ from src.services.metadata.base import TrackMetadata
 
 # Command Responses
 WELCOME_MESSAGE = (
-    "👋 <b>Welcome to Music Downloader Bot!</b>\n\n"
+    "👋 <b>Welcome to Momentum!</b>\n\n"
     "Send a song title and artist, or a direct YouTube video link, to request an MP3.\n\n"
     "<i>Example search:</i> <code>Queen Bohemian Rhapsody</code>\n"
     "<i>Example link:</i> <code>https://www.youtube.com/watch?v=...</code>\n\n"
