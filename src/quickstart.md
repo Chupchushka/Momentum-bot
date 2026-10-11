@@ -1,7 +1,5 @@
 # Quickstart & Validation Guide: Momentum
 
-**Feature**: [spec.md](spec.md) | **Date**: 2026-10-11 | **Status**: Complete
-
 This guide details prerequisites, local environment configuration, and end-to-end test scenarios to validate the Telegram Music Downloader bot.
 
 ---
