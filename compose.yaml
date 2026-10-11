@@ -1,0 +1,14 @@
+services:
+  bot:
+    build: .
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      CACHE_DB_PATH: /data/cache.db
+      TEMP_DIR: /tmp/music_bot_tmp
+    volumes:
+      - bot-data:/data
+
+volumes:
+  bot-data:
