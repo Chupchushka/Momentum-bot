@@ -1,4 +1,4 @@
-# Quickstart & Validation Guide: Telegram Music Downloader
+# Quickstart & Validation Guide: Momentum
 
 **Feature**: [spec.md](spec.md) | **Date**: 2026-10-11 | **Status**: Complete
 
