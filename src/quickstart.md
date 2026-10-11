@@ -1,6 +1,6 @@
 # Quickstart & Validation Guide: Momentum
 
-This guide details prerequisites, local environment configuration, and end-to-end test scenarios to validate the Telegram Music Downloader bot.
+This guide details prerequisites, local environment configuration, and end-to-end test scenarios to validate the Momentum.
 
 ---
 
