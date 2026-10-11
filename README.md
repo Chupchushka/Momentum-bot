@@ -1,6 +1,9 @@
 # Momentum 
 
+
 A Telegram bot that finds a track, delivers it as an MP3, and remembers uploaded files so repeat requests can be sent quickly.
+
+<img width="200" height="200" alt="momentum" src="https://github.com/user-attachments/assets/a03f2d9d-0357-4240-832b-5185d142f9b5" />
 
 ## What it can do
 
