@@ -95,4 +95,4 @@ Run integration tests that do not require live external media services:
 pytest tests/integration -v -m "not e2e"
 ```
 
-Manual Telegram scenarios are documented in [`specs/001-telegram-music-downloader/quickstart.md`](specs/001-telegram-music-downloader/quickstart.md).
+Manual Telegram scenarios are documented in [`quickstart.md`](quickstart.md).
